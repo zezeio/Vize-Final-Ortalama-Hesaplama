@@ -1,6 +1,6 @@
 # Vize-Final-Ortalama-Hesaplama
 
-<p>Notların karşılığını <a href="https://mersin.edu.tr/bulut/birim_594/Mevzuat/Esaslar/Not_Donuum_Esaslar.pdf" target="_blank">https://mersin.edu.tr/bulut/birim_594/Mevzuat/Esaslar/Not_Donuum_Esaslar.pdf</a>  adresinden adlım</p>
+<p>Notların karşılığını <a href="https://mersin.edu.tr/bulut/birim_594/Mevzuat/Esaslar/Not_Donuum_Esaslar.pdf" target="_blank">https://mersin.edu.tr/bulut/birim_594/Mevzuat/Esaslar/Not_Donuum_Esaslar.pdf</a>  adresinden aldım</p>
 
 <h1>Özellikler</h1>
 C# console ile oluşturduğum basit, vize ve final sınavlarının ortalamasını hesaplayan uygulama.
